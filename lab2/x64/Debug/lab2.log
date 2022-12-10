@@ -1,0 +1,6 @@
+﻿  Example3.cpp
+D:\Dev\ОАИП\lab2\Example3.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Main.cpp
+D:\Dev\ОАИП\lab2\Main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  lab2.vcxproj -> D:\Dev\ОАИП\lab2\x64\Debug\lab2.exe
